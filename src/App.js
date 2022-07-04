@@ -1,5 +1,9 @@
 function App() {
-  return <div className="">Redux Toolkit Project</div>;
+  return (
+    <div className="">
+      <h2>Redux Toolkit Project</h2>
+    </div>
+  );
 }
 
 export default App;
