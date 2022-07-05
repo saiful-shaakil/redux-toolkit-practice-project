@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+## About this repo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It's a practice project. I did it by watching freeCodeCamp redux toolkit course which was created by John Smilga.
 
 ## Available Scripts
 
